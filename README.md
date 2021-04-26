@@ -31,8 +31,9 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
-* **Prevendo à nota de matemática do Enem 2016:** https://bit.ly/3dvSObK
-* **Prevendo se o paciente comparecerá ou não à consulta médica:** https://bit.ly/3dPaAH7
+* **Prevendo a nota de matemática do Enem 2016:** https://bit.ly/3dvSObK
+* **Prevendo se paciente comparecerá ou não à consulta médica:** https://bit.ly/3dPaAH7
+* **Prevendo a demanda de aluguéis de bicicletas:** https://bit.ly/3exGB5M              
 * **Prevendo o consumo de cerveja:** https://bit.ly/3sOP7Te
 * **Introdução ao Machine-Learning:** https://bit.ly/3ttY9Go
 * **Gerando relatório em  PDF com Python:** https://bit.ly/3uSNTrs

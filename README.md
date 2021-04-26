@@ -8,7 +8,21 @@
 # Fernando Galvão
 <sub>*Data Science Student* at UNICID </sub>
 
-Developing necessary techniques, such as: statistics and probability, artificial intelligence, machine learning, computer vision and etc., to work on Data Science projects and related areas.
+Developing necessary technical skills, such as: statistics and probability, artificial intelligence, machine learning, computer vision, etc., to work on Data Science projects and related areas.
+Also interested in other technological knowledge such as:
+- R language;
+- Ruby;
+- SQL;
+- Kotlin;
+- Node.js;
+- Julia;
+- Scala;
+- Elasticsearch and Kibana;
+- Neo4j;
+- Databricks;
+- MongoDB;
+- CouchDB;
+- Hadoop ecosystem and etc.
 
 I have personal skills such as:
 - critical thinking;

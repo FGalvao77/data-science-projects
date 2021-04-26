@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/linkedin-fernandogalvao-blue.svg)](https://www.linkedin.com/in/fergalvao/)[![](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/github-welcome-black.svg?style=flat)](https://github.com/FGalvao77/data-science-projects)
+[![](https://img.shields.io/badge/linkedin-fernandogalvao-blue.svg)](https://www.linkedin.com/in/fergalvao/)  [![](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/downloads/release/python-365/)  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)  [![contributions welcome](https://img.shields.io/badge/github-welcome-black.svg?style=flat)](https://github.com/FGalvao77/data-science-projects)
 
 <p align="center">
   <img src="banner.png" >

@@ -51,6 +51,7 @@ Links of my publications:
 * **Prevendo se paciente comparecerá ou não à consulta médica:** https://bit.ly/3dPaAH7
 * **Prevendo a demanda de aluguéis de bicicletas:** https://bit.ly/3exGB5M              
 * **Prevendo o consumo de cerveja:** https://bit.ly/3sOP7Te
+* **Predizendo se personagem morrerá ou viverá em GOT:** https://bit.ly/3noorHI
 * **Introdução ao Machine Learning:** https://bit.ly/3ttY9Go
 * **Gerando relatório em  PDF com Python:** https://bit.ly/3uSNTrs
 * **Aprendendo Ruby:** https://bit.ly/2QDU3g1

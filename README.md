@@ -8,8 +8,9 @@
 # Fernando Galvão
 <sub>*Data Science Student* at UNICID </sub>
 
-Developing necessary technical skills, such as: statistics and probability, artificial intelligence, machine learning, computer vision, etc., to work on Data Science projects and related areas.
-Also interested in other technological knowledge such as:
+Developing necessary skills, such as: statistics and probability, artificial intelligence, machine learning, computer vision, etc., using Python to work on Data Science projects and related areas. 
+
+Also interested in other technological knowledge, such as:
 - R language;
 - Ruby;
 - SQL;

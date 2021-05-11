@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Visualização da informação:** https://bit.ly/3f9DwJA
 * **Visualização de dados do coronavírus (COVID-19):** https://bit.ly/3hhAvJQ
 * **Prevendo a nota de matemática do Enem 2016:** https://bit.ly/3dvSObK
 * **Prevendo ocorrências de diabetes:** https://bit.ly/2QCMyGI

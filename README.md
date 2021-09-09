@@ -48,7 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
-* **Implementação automatizada de máquinas preditivas com DEPLOY GRADIO: https://bit.ly/3l5SfIA
+* **Implementação automatizada de máquinas preditivas com DEPLOY GRADIO:** https://bit.ly/3l5SfIA
 * **Implementando o SVM para prever comprador online:** https://bit.ly/37slz5H
 * **Visualização da informação:** https://bit.ly/3f9DwJA
 * **Visualização de dados do coronavírus (COVID-19):** https://bit.ly/3hhAvJQ

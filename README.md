@@ -48,10 +48,11 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Implementação automatizada de máquinas preditivas com DEPLOY GRADIO: https://bit.ly/3l5SfIA
 * **Implementando o SVM para prever comprador online:** https://bit.ly/37slz5H
 * **Visualização da informação:** https://bit.ly/3f9DwJA
 * **Visualização de dados do coronavírus (COVID-19):** https://bit.ly/3hhAvJQ
-* **Prevendo a nota de matemática do Enem 2016:** https://bit.ly/3dvSObK
+* **Prevendo a nota de matemática do ENEM 2016:** https://bit.ly/3dvSObK
 * **Prevendo ocorrências de diabetes:** https://bit.ly/2QCMyGI
 * **Prevendo se paciente comparecerá ou não à consulta médica:** https://bit.ly/3dPaAH7
 * **Prevendo a demanda de aluguéis de bicicletas:** https://bit.ly/3exGB5M              

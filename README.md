@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Python para Processamento de Linguagem Natural | Natural Language Processing:** https://bit.ly/3Fn87Q6
 * **Deep Neural Multilayer Perceptron (MLP) com _Scikit Learn_:** https://bit.ly/2YtGIe9
 * **Prevendo câncer de mama com RNA (rede neural artificial) usando o dataset _load_breast_cancer_:** https://bit.ly/3uRzAEF
 * **Modelo ARIMA para análise de séries temporais (prevendo ocorrências de porte ilegal de arma):** https://bit.ly/3mqxXdm

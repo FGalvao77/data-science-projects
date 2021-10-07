@@ -48,6 +48,11 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Deep Neural Multilayer Perceptron (MLP) com _Scikit Learn_:** https://bit.ly/2YtGIe9
+* **Prevendo câncer de mama com RNA (rede neural artificial) usando o dataset _load_breast_cancer_:** https://bit.ly/3uRzAEF
+* **Modelo ARIMA para análise de séries temporais (prevendo ocorrências de porte ilegal de arma):** https://bit.ly/3mqxXdm
+* **Prevendo doença pulmonar com RNA (rede neural artificial):** https://bit.ly/304TGA6
+* **Identificando tumor cerebral com Deep Learning:** https://bit.ly/3oUW3Qv
 * **Implementação automatizada de máquinas preditivas com DEPLOY GRADIO:** https://bit.ly/3l5SfIA
 * **Implementando o SVM para prever comprador online:** https://bit.ly/37slz5H
 * **Visualização da informação:** https://bit.ly/3f9DwJA

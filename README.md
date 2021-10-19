@@ -49,7 +49,7 @@ I am currently in the middle of the higher education course in Data Science at U
 Links of my publications:
 
 * **Classificação de imagens com Python, TensorFlow e Deep Learning:** https://bit.ly/30sQ8rp
-* **Rede neural convolucional para classificação de imagens com Python, TensorFlow e Keras:** https://bit.ly/3FTrFvL
+* **Rede neural convolucional para classificação de imagens com Python, TensorFlow e Keras:** https://bit.ly/3aRHOmY
 * **Previsão de preços de imóveis com Apache Spark | Regressão Linear:** https://bit.ly/3BN61qq
 * **Aplicação do PySpark e MLlib | Regressão Linear:** https://bit.ly/3BFDvXY
 * **Usando o PySpark no Google Colab | Clusterização com PySpark no Google Colab, utilizando o K-Means:** https://bit.ly/3mGJzJm

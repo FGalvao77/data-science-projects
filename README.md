@@ -51,6 +51,7 @@ Links of my publications:
 * **Classificação de imagens com Python, TensorFlow e Deep Learning:** https://bit.ly/30sQ8rp
 * **Rede neural convolucional para classificação de imagens com Python, TensorFlow e Keras:** https://bit.ly/3aRHOmY
 * **Previsão de preços de imóveis com Apache Spark | Regressão Linear:** https://bit.ly/3BN61qq
+* **Modelagem Preditiva com R e Python | LIVRO: ANÁLISE PREDITIVA PARA LEIGOS de Dr. Anasse Bari, Mohamed Chaouchi e Tommy Jung:** https://bit.ly/3aQo5US
 * **Aplicação do PySpark e MLlib | Regressão Linear:** https://bit.ly/3BFDvXY
 * **Usando o PySpark no Google Colab | Clusterização com PySpark no Google Colab, utilizando o K-Means:** https://bit.ly/3mGJzJm
 * **Python para Processamento de Linguagem Natural | Natural Language Processing:** https://bit.ly/3Fn87Q6

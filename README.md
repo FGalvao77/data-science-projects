@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Classificação de imagens com Python, TensorFlow e Deep Learning:** https://bit.ly/30sQ8rp
 * **Rede neural convolucional para classificação de imagens com Python, TensorFlow e Keras:** https://bit.ly/3FTrFvL
 * **Previsão de preços de imóveis com Apache Spark | Regressão Linear:** https://bit.ly/3BN61qq
 * **Aplicação do PySpark e MLlib | Regressão Linear:** https://bit.ly/3BFDvXY

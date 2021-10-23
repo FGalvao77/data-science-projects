@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Deep Learning com PyTorch | Classificação de graõs de trigo utilizando uma rede neural:** https://bit.ly/2ZgETlv
 * **Machine Learning com Spark: Exemplos Práticos (regressão e classificação):** https://bit.ly/3Bhv0kV
 * **Classificação de imagens com Python, TensorFlow e Deep Learning:** https://bit.ly/30sQ8rp
 * **Rede neural convolucional para classificação de imagens com Python, TensorFlow e Keras:** https://bit.ly/3aRHOmY

@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Como usar a `API Pytrends` para obter dados de tendências do Google:** https://bit.ly/3pTRDtB
 * **Natural Language Processing (NLP) with Python using NLTK | Os 10 melhores poemas de `Fernando Pessoa`:** https://bit.ly/2ZJZyyQ
 * **Análise de sentimentos do trailer do filme `THE BATMAN` | Usaremos técnicas de "Web Scraping" e "NLP":** https://bit.ly/3BwN22r
 * **Criando uma rede neural artificial com o `PyTorch` para classificação de dígitos escritos a mão:** https://bit.ly/3Gisi20

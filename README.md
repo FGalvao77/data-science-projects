@@ -50,6 +50,7 @@ Links of my publications:
 
 * **Detecção de pose de ioga com Rede Neural Artificial utilizando o `TensorFlow` e `Keras`:** https://bit.ly/3mw9tkb
 * **Como usar a `API Pytrends` para obter dados de tendências do Google:** https://bit.ly/3pTRDtB
+* **Uma introdução prática aos _retornos de chamada_ do `Keras`:** https://bit.ly/3Ey0vsQ
 * **`Natural Language Processing` (NLP) with `Python` using `NLTK` | Os 10 melhores poemas de `Fernando Pessoa`:** https://bit.ly/2ZJZyyQ
 * **Análise de sentimentos do trailer do filme `THE BATMAN` | Usaremos técnicas de "Web Scraping" e "NLP":** https://bit.ly/3BwN22r
 * **Criando uma rede neural artificial com o `PyTorch` para classificação de dígitos escritos a mão:** https://bit.ly/3Gisi20

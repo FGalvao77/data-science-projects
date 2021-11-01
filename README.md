@@ -50,26 +50,26 @@ Links of my publications:
 
 * **Detecção de pose de ioga com Rede Neural Artificial utilizando o `TensorFlow` e `Keras`:** https://bit.ly/3mw9tkb
 * **Como usar a `API Pytrends` para obter dados de tendências do Google:** https://bit.ly/3pTRDtB
-* **Natural Language Processing (NLP) with Python using NLTK | Os 10 melhores poemas de `Fernando Pessoa`:** https://bit.ly/2ZJZyyQ
+* **`Natural Language Processing` (NLP) with `Python` using `NLTK` | Os 10 melhores poemas de `Fernando Pessoa`:** https://bit.ly/2ZJZyyQ
 * **Análise de sentimentos do trailer do filme `THE BATMAN` | Usaremos técnicas de "Web Scraping" e "NLP":** https://bit.ly/3BwN22r
 * **Criando uma rede neural artificial com o `PyTorch` para classificação de dígitos escritos a mão:** https://bit.ly/3Gisi20
-* **Redes Neurais Convolucionais: Aprenda os conceitos importantes e como aplicar na prática com Python:** https://bit.ly/2Ziey6B
-* **Deep Learning com PyTorch | Classificação de graõs de trigo utilizando uma rede neural:** https://bit.ly/2ZgETlv
-* **Machine Learning com Spark: Exemplos Práticos (regressão e classificação):** https://bit.ly/3Bhv0kV
-* **Classificação de imagens com Python, TensorFlow e Deep Learning:** https://bit.ly/30sQ8rp
+* **`Redes Neurais Convolucionais`: Aprenda os conceitos importantes e como aplicar na prática com Python:** https://bit.ly/2Ziey6B
+* **`Deep Learning com PyTorch` | Classificação de graõs de trigo utilizando uma rede neural:** https://bit.ly/2ZgETlv
+* **`Machine Learning com Spark`: Exemplos Práticos (regressão e classificação):** https://bit.ly/3Bhv0kV
+* **Classificação de imagens com `Python, TensorFlow e Deep Learning`:** https://bit.ly/30sQ8rp
 * **Rede neural convolucional para classificação de imagens com Python, TensorFlow e Keras:** https://bit.ly/3aRHOmY
-* **Previsão de preços de imóveis com Apache Spark | Regressão Linear:** https://bit.ly/3BN61qq
-* **Modelagem Preditiva com R e Python | LIVRO: ANÁLISE PREDITIVA PARA LEIGOS de Dr. Anasse Bari, Mohamed Chaouchi e Tommy Jung:** https://bit.ly/3aQo5US
-* **Aplicação do PySpark e MLlib | Regressão Linear:** https://bit.ly/3BFDvXY
-* **Usando o PySpark no Google Colab | Clusterização com PySpark no Google Colab, utilizando o K-Means:** https://bit.ly/3mGJzJm
-* **Python para Processamento de Linguagem Natural | Natural Language Processing:** https://bit.ly/3Fn87Q6
-* **Deep Neural Multilayer Perceptron (MLP) com _Scikit Learn_:** https://bit.ly/2YtGIe9
-* **Prevendo câncer de mama com RNA (rede neural artificial) usando o dataset _load_breast_cancer_:** https://bit.ly/3uRzAEF
-* **Modelo ARIMA para análise de séries temporais (prevendo ocorrências de porte ilegal de arma):** https://bit.ly/3mqxXdm
-* **Prevendo doença pulmonar com RNA (rede neural artificial):** https://bit.ly/304TGA6
-* **Identificando tumor cerebral com Deep Learning:** https://bit.ly/3oUW3Qv
-* **Implementação automatizada de máquinas preditivas com DEPLOY GRADIO:** https://bit.ly/3l5SfIA
-* **Implementando o SVM para prever comprador online:** https://bit.ly/37slz5H
+* **Previsão de preços de imóveis com `Apache Spark` | Regressão Linear:** https://bit.ly/3BN61qq
+* **`Modelagem Preditiva com R e Python` | LIVRO: ANÁLISE PREDITIVA PARA LEIGOS de Dr. Anasse Bari, Mohamed Chaouchi e Tommy Jung:** https://bit.ly/3aQo5US
+* **Aplicação do `PySpark e MLlib` | Regressão Linear:** https://bit.ly/3BFDvXY
+* **Usando o `PySpark no Google Colab` | Clusterização com PySpark no Google Colab, utilizando o K-Means:** https://bit.ly/3mGJzJm
+* **Python para `Processamento de Linguagem Natural` | Natural Language Processing:** https://bit.ly/3Fn87Q6
+* **`Deep Neural Multilayer Perceptron (MLP)` com _Scikit Learn_:** https://bit.ly/2YtGIe9
+* **Prevendo câncer de mama com `RNA (rede neural artificial)` usando o dataset _load_breast_cancer_:** https://bit.ly/3uRzAEF
+* **Modelo `ARIMA` para análise de séries temporais (prevendo ocorrências de porte ilegal de arma):** https://bit.ly/3mqxXdm
+* **Prevendo doença pulmonar com `RNA (rede neural artificial)`:** https://bit.ly/304TGA6
+* **Identificando tumor cerebral com `Deep Learning`:** https://bit.ly/3oUW3Qv
+* **Implementação automatizada de máquinas preditivas com `DEPLOY GRADIO`:** https://bit.ly/3l5SfIA
+* **Implementando o `SVM` para prever comprador online:** https://bit.ly/37slz5H
 * **Visualização da informação:** https://bit.ly/3f9DwJA
 * **Visualização de dados do coronavírus (COVID-19):** https://bit.ly/3hhAvJQ
 * **Prevendo a nota de matemática do ENEM 2016:** https://bit.ly/3dvSObK
@@ -78,9 +78,9 @@ Links of my publications:
 * **Prevendo a demanda de aluguéis de bicicletas:** https://bit.ly/3exGB5M              
 * **Prevendo o consumo de cerveja:** https://bit.ly/3sOP7Te
 * **Predizendo se personagem morrerá ou viverá em GOT:** https://bit.ly/3noorHI
-* **Introdução ao Machine Learning:** https://bit.ly/3ttY9Go
-* **Gerando relatório em  PDF com Python:** https://bit.ly/3uSNTrs
-* **Aprendendo Ruby:** https://bit.ly/2QDU3g1
+* **`Introdução ao Machine Learning`:** https://bit.ly/3ttY9Go
+* **`Gerando relatório em  PDF com Python`:** https://bit.ly/3uSNTrs
+* **Aprendendo `Ruby`:** https://bit.ly/2QDU3g1
 
 ---
 

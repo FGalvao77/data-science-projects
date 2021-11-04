@@ -50,7 +50,7 @@ Links of my publications:
 
 * **Identificando _câncer de próstata_ com técnicas de `Machine Learning`:** https://bit.ly/3k3cUNy
 * **Automação com SELENIUM em Python | Baixando DADOS da COVID-19 no Google Colab | Web Scraping:** https://bit.ly/3k4EjPl
-* **Utilizando técnicas de `Machine Learning` para prever _turnover_ de funcionários:** https://bit.ly/3EISSzZ
+* **Utilizando técnicas de `Machine Learning` para prever _turnover_ de funcionários:** https://bit.ly/3qdt5Ml
 * **Detecção de pose de ioga com Rede Neural Artificial utilizando o `TensorFlow` e `Keras`:** https://bit.ly/3mw9tkb
 * **Como usar a `API Pytrends` para obter dados de tendências do Google:** https://bit.ly/3pTRDtB
 * **Uma introdução prática aos _retornos de chamada_ do `Keras`:** https://bit.ly/3Ey0vsQ

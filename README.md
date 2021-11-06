@@ -48,7 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
-* **Fundamentos de Machine Learning:** 
+* **Fundamentos de Machine Learning:** https://bit.ly/3CSs5Rb
 * **Identificando _câncer de próstata_ com técnicas de `Machine Learning`:** https://bit.ly/3k3cUNy
 * **Automação com SELENIUM em Python | Baixando DADOS da COVID-19 no Google Colab | Web Scraping:** https://bit.ly/3k4EjPl
 * **Utilizando técnicas de `Machine Learning` para prever _turnover_ de funcionários:** https://bit.ly/3qdt5Ml

@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Aprenda como selecionar `Features` para seu Modelo de Machine Learning:** https://bit.ly/30cFZ21
 * **Modelo preditivo da `nota de matemática` (ENEM 2016 - Exame Nacional do Ensino Médio):** https://bit.ly/30nEZZn
 * **Introdução ao _AutoML_ com `PyCaret` | Exemplos práticos: _regressão_, _classificação_ e _clusterização_:** https://bit.ly/3BSupX0
 * **Fundamentos de Machine Learning:** https://bit.ly/3CSs5Rb

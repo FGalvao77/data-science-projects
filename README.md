@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **(`Pipeline`) Etapas de projeto de _Machine Learning_:** https://bit.ly/3kTz3OJ
 * **Agrupamento de usuários de cartão de crédito | `K-Means`:** https://bit.ly/3qKnj4P
 * **Conhecendo as _árvores de decisão_ (`decision trees`):** https://bit.ly/30tXjjL
 * **Implementando `Redes Generativas Adversárias (GAN)` do ZERO | _PyTorch_ | _Deep Learning_:** https://bit.ly/3ozpjKD

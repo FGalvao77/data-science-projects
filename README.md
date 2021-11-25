@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Árvores e Ensembles de Machine Learning (Scikit-learn+)**: https://bit.ly/3nMt9B0
 * **Comparando a performance - XGBoost VS LightGBM:** https://bit.ly/3D24xIZ
 * **(`Pipeline`) _Automatize as etapas de Machine Learning_:** https://bit.ly/2Z8nqvR
 * **Prevendo _sucesso de APP's_ com `Ciência de Dados`:** https://bit.ly/2Z69oL3

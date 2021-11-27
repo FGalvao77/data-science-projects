@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Modelo de classificação - árvore de decisão:** https://bit.ly/3rhE9bE
 * **Análise de risco para concessão de crédito:** https://bit.ly/2ZtTw5g
 * **Árvores e Ensembles de Machine Learning (Scikit-learn+)**: https://bit.ly/3nMt9B0
 * **Comparando a performance - XGBoost VS LightGBM:** https://bit.ly/3D24xIZ

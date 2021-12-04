@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **`Regressão Linear com Python` - _Hands-on!_:** https://bit.ly/3pqzTUK
 * **Aplicação prática dos algoritmos _KMeans_ e _LogisticRegression_ utilizando o `PySpark`:** https://bit.ly/3luQ9mf
 * **Aplicação prática do algoritmo `Naive Bayes` | _PREDIÇÃO DE CÂNCER_:** https://bit.ly/3GgOPf3
 * **Prevendo tempo de permanência em internação hospitalar:** https://bit.ly/3dcNA45

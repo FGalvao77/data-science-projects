@@ -49,7 +49,7 @@ I am currently in the middle of the higher education course in Data Science at U
 Links of my publications:
 
 * **Aplicação prática dos algoritmos _KMeans_ e _LogisticRegression_ utilizando o `PySpark`:** https://bit.ly/3luQ9mf
-* **Aplicação prática do algoritmo `Naive Bayes` | _PREDIÇÂO DE CÂNCER_:** https://bit.ly/3GgOPf3
+* **Aplicação prática do algoritmo `Naive Bayes` | _PREDIÇÃO DE CÂNCER_:** https://bit.ly/3GgOPf3
 * **Prevendo tempo de permanência em internação hospitalar:** https://bit.ly/3dcNA45
 * **Modelo de classificação - árvore de decisão:** https://bit.ly/3rhE9bE
 * **Análise de risco para concessão de crédito:** https://bit.ly/2ZtTw5g

@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Conhecendo o classificador `SVM` e _kernel RBF_:** https://bit.ly/3DNiY3H
 * **Análise de sentimentos de dados textuais - `IMDB-Dataset`:** https://bit.ly/3IO4LaG
 * **HR Analytics - Prevendo _turnover_ de colaboradores:** https://bit.ly/3pyfsVS
 * **Regressão Logística com `PySpark` | _Pima Indians Diabetes Database_:** https://bit.ly/3DspXz9

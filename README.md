@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Previsão de incêndios florestais usando aprendizado de máquina:** https://bit.ly/3pcVl0y
 * **Testes estatísticos que você deve fazer para uma boa Regressão Linear:** https://bit.ly/3miYmdX
 * **Conhecendo o classificador `SVM` e _kernel RBF_:** https://bit.ly/3DNiY3H
 * **Análise de sentimentos de dados textuais - `IMDB-Dataset`:** https://bit.ly/3IO4LaG

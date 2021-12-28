@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Prevendo Custo do Plano de Saúde:** https://bit.ly/31bvEEw
 * **Conhecendo a biblioteca `LAZYPREDICT`:** https://bit.ly/32gOUB4
 * **Predizendo se o cliente assinará um depósito a prazo | `Regressão Logística`:** https://bit.ly/3EnUluL
 * **Previsão de incêndios florestais usando aprendizado de máquina:** https://bit.ly/3pcVl0y

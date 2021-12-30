@@ -48,7 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
-* **Análise de correlação com dados financeiros:** https://bit.ly/3JskbBH
+* **Análise de correlação com dados financeiros utilizando a library `yfinance`:** https://bit.ly/3JskbBH
 * **Prevendo Custo do Plano de Saúde:** https://bit.ly/31bvEEw
 * **Conhecendo a biblioteca `LAZYPREDICT`:** https://bit.ly/32gOUB4
 * **Predizendo se o cliente assinará um depósito a prazo | `Regressão Logística`:** https://bit.ly/3EnUluL

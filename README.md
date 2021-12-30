@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Análise exploratória de dados (EDA) em Python utilizando a biblioteca `Sweetviz`:** https://bit.ly/3pF2DKA
 * **Análises estatísticas de dados financeiros com Python | empresas americanas:** https://bit.ly/3HiJl3I
 * **Análise de dados financeiros com Python | empresas brasileiras:** https://bit.ly/3qEBg2v
 * **Análise de Séries Temporais com Python:** https://bit.ly/3eztIJ5 

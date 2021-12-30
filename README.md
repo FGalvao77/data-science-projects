@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Análise de dados financeiros com Python | empresas brasileiras:** https://bit.ly/3qEBg2v
 * **Análise de Séries Temporais com Python:** https://bit.ly/3eztIJ5 
 * **Análise exploratória de dados (EDA - Exploratory Data Analysis) | House Prices Dataset:** https://bit.ly/3JsZeGC
 * **Análise de correlação com dados financeiros utilizando a library `yfinance`:** https://bit.ly/3JskbBH

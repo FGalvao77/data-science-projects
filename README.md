@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Interpretando o modelo com o _framework_ `ELI5`:** https://bit.ly/3qUuMgd
 * **Prevendo _valor de ações_ utilizando **RNA**- `PETROBRAS (PETR4.SA)`:** https://bit.ly/3pQNNkA
 * **Aplicações do `XGBoost` com _Scikit-learn_:** https://bit.ly/31gMH80
 * **Análise exploratória de dados (EDA) em Python utilizando a biblioteca `Sweetviz`:** https://bit.ly/3pF2DKA

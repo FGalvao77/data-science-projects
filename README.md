@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Prevendo `diabetes` com técnicas de _Machine Learning_:** https://bit.ly/3qleLRm
 * **Prevendo valor de ações - `Investimentos Itaú/SA (ITSA4.SA)`:** https://bit.ly/3zBhTvy
 * **Conhecendo a biblioteca `CatBoost`:** https://bit.ly/3t8pPDg
 * **Interpretando o modelo com o _framework_ `ELI5`:** https://bit.ly/3qUuMgd

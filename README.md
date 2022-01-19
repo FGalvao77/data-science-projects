@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Aplicação prática do `t-SNE`:** https://bit.ly/3rvmDPx
 * **Tópicos avançados de Ciência de Dados:** https://bit.ly/3Kr49Zm
 * **Prevendo `diabetes` com técnicas de _Machine Learning_:** https://bit.ly/3qleLRm
 * **Prevendo valor de ações - `Investimentos Itaú/SA (ITSA4.SA)`:** https://bit.ly/3zBhTvy

@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Como utilizar o PyTorch com o TensorBoard no Colab:** https://bit.ly/3AGcaVT
 * **GAN com Torch:** https://bit.ly/3AKXrst
 * **Redes Adversariais Generativas (GANs) - MNIST dataset:** https://bit.ly/3ILaDAw
 * **Deep Convolutional Generative Adversarial Network (DCGAN):** https://bit.ly/35o1Shl

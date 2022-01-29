@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Introdução à `Redes Adversárias Generativas (GAN - Generative Adversarial Network)`:** https://bit.ly/3AFp728
 * **Aplicação do `autoencoder` no _MNIST dataset_:** https://bit.ly/3AtCMcF
 * **Aplicação prática do `t-SNE`:** https://bit.ly/3rvmDPx
 * **Tópicos avançados de Ciência de Dados:** https://bit.ly/3Kr49Zm

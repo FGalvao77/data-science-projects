@@ -48,10 +48,11 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
-* **Como utilizar o PyTorch com o TensorBoard no Colab:** https://bit.ly/3AGcaVT
-* **GAN com Torch:** https://bit.ly/3AKXrst
-* **Redes Adversariais Generativas (GANs) - MNIST dataset:** https://bit.ly/3ILaDAw
-* **Deep Convolutional Generative Adversarial Network (DCGAN):** https://bit.ly/35o1Shl
+* **Implementando `DCGAN` do zero:** https://bit.ly/3o8EkDC
+* **Como utilizar o `PyTorch` com o _TensorBoard no Colab_:** https://bit.ly/3AGcaVT
+* **`GAN com Torch`:** https://bit.ly/3AKXrst
+* **`Redes Adversariais Generativas (GANs)` - _MNIST dataset_:** https://bit.ly/3ILaDAw
+* **`Deep Convolutional Generative Adversarial Network (DCGAN)`:** https://bit.ly/35o1Shl
 * **Introdução à `Redes Adversárias Generativas (GAN - Generative Adversarial Network)`:** https://bit.ly/3AFp728
 * **Aplicação do `autoencoder` no _MNIST dataset_:** https://bit.ly/3AtCMcF
 * **Aplicação prática do `t-SNE`:** https://bit.ly/3rvmDPx

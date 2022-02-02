@@ -48,7 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
-* **(NOVA VERSÃO) - Prevendo ocorrências de diabetes:** https://bit.ly/3GpT6fv
+* **(NOVA VERSÃO) - Prevendo ocorrências de diabetes:** https://bit.ly/3oiZaQP
 * **Classificador de `DIABETES`:** https://bit.ly/3ufWlUH
 * **Rede neural X Modelo linear:** https://bit.ly/3AGFtaM
 * **Selective search - Seleção de imagens e/ou partes de uma imagem com a biblioteca createSelectiveSearchSegmentation e sua aplicação de análise em Visão Computacional:** https://bit.ly/3IGps7w

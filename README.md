@@ -12,10 +12,9 @@ Developing necessary skills, such as: statistics and probability, artificial int
 
 Also interested in other technological knowledge, such as:
 - R language;
-- Ruby;
 - SQL;
+- Ruby;
 - Kotlin;
-- Node.js;
 - Julia;
 - Scala;
 - Elasticsearch and Kibana;
@@ -23,6 +22,7 @@ Also interested in other technological knowledge, such as:
 - Databricks;
 - MongoDB;
 - CouchDB;
+- Structured Database system;
 - Hadoop ecosystem and etc.
 
 I have personal skills like:
@@ -36,9 +36,11 @@ I have personal skills like:
 - good writing and,
 - disciplined and organized.
 
-I am currently in the middle of the higher education course in Data Science at UNICID (University of the City of São Paulo) of the Cruzeiro do Sul group - EAD.
+Complete training in a Higher Course in Data Science Technology by UNICID (University of the City of São Paulo - Cruzeiro do Sul group).
 
-**Background in:** Python and Machine Learning.
+And doing postgraduate studies in Artificial Intelligence and Machine Learning at the same institution.
+
+**Background in:** Python language and Machine Learning applications.
 
 **Link:**
 

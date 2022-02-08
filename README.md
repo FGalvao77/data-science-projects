@@ -48,6 +48,7 @@ I am currently in the middle of the higher education course in Data Science at U
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Classificador de `CHURN`:** https://bit.ly/333Vw60
 * **(NOVA VERSÃO) - Prevendo ocorrências de diabetes:** https://bit.ly/3oiZaQP
 * **Classificador de `DIABETES`:** https://bit.ly/3ufWlUH
 * **Rede neural X Modelo linear:** https://bit.ly/3AGFtaM

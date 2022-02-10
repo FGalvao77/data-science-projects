@@ -50,6 +50,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Soluções para tratar dados desbalanceados:** https://bit.ly/34q6HqB
 * **Classificador de `CHURN`:** https://bit.ly/333Vw60
 * **(NOVA VERSÃO) - Prevendo ocorrências de diabetes:** https://bit.ly/3oiZaQP
 * **Classificador de `DIABETES`:** https://bit.ly/3ufWlUH

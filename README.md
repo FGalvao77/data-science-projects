@@ -50,6 +50,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Aplicação prática do `SVM` (_Support Vector Machines_):** https://bit.ly/3LRP2bQ
 * **`RNA` (rede neural artificial) para _detecção de pneumonia em raio-x_:** https://bit.ly/3uKfE8O
 * **Soluções para tratar dados desbalanceados:** https://bit.ly/34q6HqB
 * **Classificador de `CHURN`:** https://bit.ly/333Vw60

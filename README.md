@@ -50,6 +50,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Como criar modelos de _séries temporais_ (time series) com o `PROPHET`:** https://bit.ly/377Uise
 * **Introdução prática na construção de modelos para Séries Temporais:** https://bit.ly/34gAYYy
 * **Aplicação prática do `SVM` (_Support Vector Machines_):** https://bit.ly/3LRP2bQ
 * **`RNA` (rede neural artificial) para _detecção de pneumonia em raio-x_:** https://bit.ly/3uKfE8O

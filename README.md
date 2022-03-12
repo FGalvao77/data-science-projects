@@ -27,6 +27,7 @@ Also interested in other technological knowledge, such as:
 
 I have personal skills like:
 
+- self-taught;
 - critical thinking;
 - curiosity;
 - mindset for problem solving;

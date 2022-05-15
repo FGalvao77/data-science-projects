@@ -51,6 +51,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Avaliação de Modelos: Preditivos & Descritivos | Python & R:** https://bit.ly/3sEPYsq
 * **`Rede Neural Artificial (RNA)` para predizer _valor de venda de casas_:** https://bit.ly/3MNyh2m
 * **TUTORIAL - `TensorFlow & Keras`: Construindo _RNA_ para classificação:** https://bit.ly/3pYabYR
 * **Introdução ao Processamento de Linguagem Natural (NLP - Natural Language Processing):** https://bit.ly/35BoECZ

@@ -51,8 +51,9 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Prevendo valor de ações com _técnicas de Machine Learning & Deep Learning_ - `Investimentos WEG S.A. (WEG3.SA)`:** https://bit.ly/3NcaXKI
 * **`Estatística básica` para _Data Science_ com Python:** https://bit.ly/3N7pl7c
-* **Avaliação de Modelos: Preditivos & Descritivos | Python & R:** https://bit.ly/3sEPYsq
+* **Avaliação de Modelos: `Preditivos & Descritivos` | _Python & R_:** https://bit.ly/3sEPYsq
 * **`Rede Neural Artificial (RNA)` para predizer _valor de venda de casas_:** https://bit.ly/3MNyh2m
 * **TUTORIAL - `TensorFlow & Keras`: Construindo _RNA_ para classificação:** https://bit.ly/3pYabYR
 * **Introdução ao Processamento de Linguagem Natural (NLP - Natural Language Processing):** https://bit.ly/35BoECZ

@@ -51,6 +51,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Prevendo valores de _ações com técnicas_ de `Machine Learning` e `Deep Learning` | empresas brasileiras:** https://bit.ly/3LoRKEn
 * **Prevendo valor de ações com _técnicas de Machine Learning & Deep Learning_ - `Investimentos WEG S.A. (WEG3.SA)`:** https://bit.ly/3NcaXKI
 * **`Estatística básica` para _Data Science_ com Python:** https://bit.ly/3N7pl7c
 * **Avaliação de Modelos: `Preditivos & Descritivos` | _Python & R_:** https://bit.ly/3sEPYsq

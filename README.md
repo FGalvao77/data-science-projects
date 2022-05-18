@@ -6,7 +6,7 @@
 
 
 # Fernando Galvão
-<sub>*Data Science Student* at UNICID </sub>
+<sub>*Data Science Student* at [UNICID](https://www.unicid.edu.br/) </sub>
 
 Developing necessary skills, such as: statistics and probability, artificial intelligence, machine learning, computer vision, etc., using Python to work on Data Science projects and related areas. 
 
@@ -51,6 +51,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Prevendo preço de _ações da Magazine Luiza S.A. (MGLU3.SA)_ com o `PROPHET`:** https://bit.ly/3NkobVR
 * **Prevendo valores de _ações com técnicas_ de `Machine Learning` e `Deep Learning` | empresas brasileiras:** https://bit.ly/3LoRKEn
 * **Prevendo valor de ações com _técnicas de Machine Learning & Deep Learning_ - `Investimentos WEG S.A. (WEG3.SA)`:** https://bit.ly/3NcaXKI
 * **`Estatística básica` para _Data Science_ com Python:** https://bit.ly/3N7pl7c

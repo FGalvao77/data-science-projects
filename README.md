@@ -51,6 +51,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Criando _Dashboards interativos_ em Python com auxílio do `Plotly` e `Cufflinks`:** https://bit.ly/3aktaYJ
 * **Prevendo preço de _ações da Magazine Luiza S.A. (MGLU3.SA)_ com o `PROPHET`:** https://bit.ly/3NkobVR
 * **Prevendo valores de _ações com técnicas_ de `Machine Learning` e `Deep Learning` | empresas brasileiras:** https://bit.ly/3LoRKEn
 * **Prevendo valor de ações com _técnicas de Machine Learning & Deep Learning_ - `Investimentos WEG S.A. (WEG3.SA)`:** https://bit.ly/3NcaXKI

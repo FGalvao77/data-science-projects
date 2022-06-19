@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/linkedin-fernandogalvao-blue.svg)](https://www.linkedin.com/in/fergalvao/)  [![](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/downloads/release/python-365/)  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)  [![contributions welcome](https://img.shields.io/badge/github-welcome-black.svg?style=flat)](https://github.com/FGalvao77/data-science-projects)
+[![](https://img.shields.io/badge/linkedin-fernandogalvao-blue.svg)](https://www.linkedin.com/in/fergalvao/)  [![](https://img.shields.io/badge/python-3.8+-yellow.svg)](https://www.python.org/downloads/release/python-365/)  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)  [![contributions welcome](https://img.shields.io/badge/github-welcome-black.svg?style=flat)](https://github.com/FGalvao77/data-science-projects)
 
 <p align="center">
   <img src="banner.png" >
@@ -51,6 +51,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **Explorando a biblioteca `PyOD` para _detecção de outliers_:** https://bit.ly/3OnRvv7
 * **Clustering with the _R language_ [Kmeans] | Developed in `RStudio Cloud`:** https://bit.ly/3xd4bQ0
 * **Criando _Dashboards interativos_ em Python com auxílio do `Plotly` e `Cufflinks`:** https://bit.ly/3aktaYJ
 * **Prevendo preço de _ações da Magazine Luiza S.A. (MGLU3.SA)_ com o `PROPHET`:** https://bit.ly/3NkobVR

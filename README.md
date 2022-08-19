@@ -51,6 +51,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **`XG Boost` Vs `Light GBM` Vs `Multi-layer Perceptron`:** https://bit.ly/3PHJh1u
 * **`RNA c/ Perceptron de Múltiplas Camadas` VS `Regressão linear c/ Descida de Gradiente Estocástica`:** https://bit.ly/3dGwvme
 * **Explorando a biblioteca `PyOD` para _detecção de outliers_:** https://bit.ly/3OnRvv7
 * **Clustering with the _R language_ [Kmeans] | Developed in `RStudio Cloud`:** https://bit.ly/3xd4bQ0

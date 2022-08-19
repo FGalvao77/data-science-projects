@@ -51,6 +51,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **[TUTORIAL] - Using `R language` in _Google Colab_:** https://bit.ly/3A2111A
 * **Deploy classification model:** https://bit.ly/3psKVZQ
 * **Principal Component Analysis (PCA):** https://bit.ly/3wfl1MZ
 * **Logist Regression:** https://bit.ly/3CxxMH1

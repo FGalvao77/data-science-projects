@@ -76,7 +76,7 @@ Links of my publications:
 * **`RNA` (rede neural artificial) para _detecção de pneumonia em raio-x_:** https://bit.ly/3uKfE8O
 * **Soluções para tratar dados desbalanceados:** https://bit.ly/34q6HqB
 * **Classificador de `CHURN`:** https://bit.ly/333Vw60
-* **(NOVA VERSÃO) - Prevendo ocorrências de diabetes:** https://bit.ly/3oiZaQP
+* **[NOVA VERSÃO] - Prevendo ocorrências de diabetes:** https://bit.ly/3oiZaQP
 * **Classificador de `DIABETES`:** https://bit.ly/3ufWlUH
 * **Rede neural X Modelo linear:** https://bit.ly/3AGFtaM
 * **Selective search - Seleção de imagens e/ou partes de uma imagem com a biblioteca createSelectiveSearchSegmentation e sua aplicação de análise em Visão Computacional:** https://bit.ly/3IGps7w
@@ -119,9 +119,9 @@ Links of my publications:
 * **Árvores e Ensembles de Machine Learning (Scikit-learn+)**: https://bit.ly/3nMt9B0
 * **Comparando a performance - XGBoost VS LightGBM:** https://bit.ly/3D24xIZ
 * **Conhecendo o XGBoost e tunando seus parâmetros principais:** https://bit.ly/3FMjVe0
-* **(`Pipeline`) _Automatize as etapas de Machine Learning_:** https://bit.ly/2Z8nqvR
+* **[`Pipeline`] _Automatize as etapas de Machine Learning_:** https://bit.ly/2Z8nqvR
 * **Prevendo _sucesso de APP's_ com `Ciência de Dados`:** https://bit.ly/2Z69oL3
-* **(`Pipeline`) Etapas de projeto de _Machine Learning_:** https://bit.ly/3kTz3OJ
+* **[`Pipeline`] Etapas de projeto de _Machine Learning_:** https://bit.ly/3kTz3OJ
 * **Agrupamento de usuários de cartão de crédito | `K-Means`:** https://bit.ly/3qKnj4P
 * **Conhecendo as _árvores de decisão_ (`decision trees`):** https://bit.ly/30tXjjL
 * **Implementando `Redes Generativas Adversárias (GAN)` do ZERO | _PyTorch_ | _Deep Learning_:** https://bit.ly/3ozpjKD

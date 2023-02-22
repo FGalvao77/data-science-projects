@@ -55,7 +55,7 @@ Links of my publications:
 * **[TUTORIAL] - Using `R language` in _Google Colab_:** https://bit.ly/3A2111A
 * **Deploy classification model:** https://bit.ly/3psKVZQ
 * **Principal Component Analysis (PCA):** https://bit.ly/3wfl1MZ
-* **Logist Regression:** https://bit.ly/3CxxMH1
+* **Logistic Regression:** https://bit.ly/3CxxMH1
 * **Técnicas de pré-processamento de dados:** https://bit.ly/3c7yVdo
 * **`XG Boost` Vs `Light GBM` Vs `Multi-layer Perceptron`:** https://bit.ly/3PHJh1u
 * **`RNA c/ Perceptron de Múltiplas Camadas` VS `Regressão linear c/ Descida de Gradiente Estocástica`:** https://bit.ly/3dGwvme

@@ -37,7 +37,7 @@ Completed graduation in Higher Technological Course in Data Science by UNICID (C
 
 And studying a new postgraduate course in Quantum Computing at Universidade Anhembi Morumbi
 
-**Background in:** Python language, basic domain in SQL for database query and advanced techniques in Artificial Intelligence & Machine Learning applications
+**Background in:** Python language, basic domain in SQL for database query and advanced techniques in Artificial Intelligence & Machine Learning applications.
 
 **Link:**
 

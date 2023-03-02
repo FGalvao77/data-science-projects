@@ -13,15 +13,11 @@ Developing necessary skills, such as: statistics and probability, artificial int
 Also interested in other technological knowledge, such as:
 - R language;
 - SQL;
-- Ruby;
-- Kotlin;
 - Julia;
-- Scala;
-- Elasticsearch and Kibana;
-- Neo4j;
+- Power BI;
+- Kibama/Elasticsearch;
 - Databricks;
 - MongoDB;
-- CouchDB;
 - Structured Database system;
 - Hadoop ecosystem and etc.
 
@@ -37,11 +33,11 @@ I have personal skills like:
 - good writing and,
 - disciplined and organized.
 
-Complete training in a Higher Course in Data Science Technology by UNICID (University of the City of São Paulo - Cruzeiro do Sul group).
+Completed graduation in Higher Technological Course in Data Science by UNICID (Cruzeiro do Sul) and postgraduate degree in Artificial Intelligence and Machine Learning by the same institution.
 
-And doing postgraduate studies in Artificial Intelligence and Machine Learning at the same institution.
+And studying a new postgraduate course in Quantum Computing at Universidade Anhembi Morumbi
 
-**Background in:** Python language and Machine Learning applications.
+**Background in:** Python language, basic domain in SQL for database query and advanced techniques in Artificial Intelligence & Machine Learning applications
 
 **Link:**
 
@@ -51,6 +47,7 @@ And doing postgraduate studies in Artificial Intelligence and Machine Learning a
 ## My personal projects and of study academic:
 Links of my publications:
 
+* **[INTRO] EDA (_Exploratory Data Analysis_) with `SQLite & Python`:** http://bit.ly/41NG73s
 * **Otimização de rota com algoritmo genético em Python [DEAP]:** https://bit.ly/3AaHyvB
 * **[TUTORIAL] - Using `R language` in _Google Colab_:** https://bit.ly/3A2111A
 * **Deploy classification model:** https://bit.ly/3psKVZQ
